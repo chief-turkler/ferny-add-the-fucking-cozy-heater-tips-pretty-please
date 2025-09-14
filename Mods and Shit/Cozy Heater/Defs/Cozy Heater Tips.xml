@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TipSetDef>
+		<defName>turkler_CozyHeaterTips</defName>
+		<tips>
+			<li TKey="CozyHeaterTips1">Heaters can be rotated.</li>
+		</tips>
+	</TipSetDef>
+</Defs>
