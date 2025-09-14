@@ -1,0 +1,41 @@
+<loadFolders>
+  <v1.6>
+<!-- DLCS -->
+    <li IfModActive="ludeon.rimworld.ideology">Mods and Shit/Ideology</li>
+<!-- MODS -->
+    <li IfModActive="brrainz.achtung">Mods and Shit/Achtung</li>
+    <li IfModActive="hlx.ultratechalteredcarbon">Mods and Shit/Altered Carbon</li>
+    <li IfModActive="defi.blueprints.fork">Mods and Shit/Blueprints</li>
+    <li IfModActive="det.avaloi">Mods and Shit/Det's Avaloi</li>
+    <li IfModActive="det.boglegs">Mods and Shit/Det's Boglegs</li>
+    <li IfModActive="dubwise.dubsbadhygiene">Mods and Shit/Dubs Bad Hygiene</li>
+    <li IfModActive="mlie.explosiveradius">Mods and Shit/Explosive Radius</li>
+    <li IfModActive="aelanna.getoutofmychair">Mods and Shit/Get Out Of My Chair</li>
+    <li IfModActive="thek.guardingp">Mods and Shit/Guarding Pawns</li>
+    <li IfModActive="orion.hospitality">Mods and Shit/Hospitality</li>
+    <li IfModActive="mlie.runandhide">Mods and Shit/Run and Hide</li>
+    <li IfModActive="mlie.shoo">Mods and Shit/Shoo</li>
+    <li IfModActive="orion.therapy">Mods and Shit/Therapy</li>
+    <li IfModActive="grizzlemethis.tradingspot.rw">Mods and Shit/Trading Spot</li>
+    <li IfModActive="vanillaexpanded.vaeendandext">Mods and Shit/VAE Endangered</li>
+    <li IfModActive="vanillaexpanded.vaeroy">Mods and Shit/VAE Royal</li>
+    <li IfModActive="vanillaexpanded.vcooke">Mods and Shit/VE Cooking</li>
+    <li IfModActive="vanillaexpanded.vcef">Mods and Shit/VE Fishing</li>
+    <li IfModActive="vanillaexpanded.vgeneticse">Mods and Shit/VE Genetics</li>
+    <li IfModActive="vanillaexpanded.vanillatradingexpanded">Mods and Shit/VE Trading</li>
+    <li IfModActive="smashphil.vehicleframework">Mods and Shit/Vehicle Framework</li>
+    <li IfModActive="vanillaexpanded.vfearchitect">Mods and Shit/VFE Architect</li>
+    <li IfModActive="oskarpotocki.vfe.classical">Mods and Shit/VFE Classical</li>
+    <li IfModActive="vanillaexpanded.vfefarming">Mods and Shit/VFE Farming</li>
+    <li IfModActive="vanillaexpanded.vfepropsanddecor">Mods and Shit/VFE Props</li>
+    <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">Mods and Shit/VFE Settlers</li>
+    <li IfModActive="vanillaexpanded.vplantsesucculents">Mods and Shit/VPE Succulents</li>
+    <li IfModActive="vanillaracesexpanded.highmate">Mods and Shit/VRE Highmate</li>
+    <li IfModActive="vanillaracesexpanded.pigskin">Mods and Shit/VRE Pigskins</li>
+    <li IfModActive="vanillaracesexpanded.saurid">Mods and Shit/VRE Saurids</li>
+    <li IfModActive="vanillaexpanded.vtexvariations">Mods and Shit/VTE Variations</li>
+    <li IfModActive="vanillaexpanded.vwec">Mods and Shit/VWE Coilguns</li>
+    <li IfModActive="vanillaexpanded.vwel">Mods and Shit/VWE Laser</li>
+    <li IfModActive="redmattis.betterconversion">Mods and Shit/Wololoo</li>
+  </v1.6>
+</loadFolders>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VFEArchitectTips</defName>
+    <tips>
+      <li TKey="FernyVFEArchitect1">Foundations can be built on unsteady ground to support large structures.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

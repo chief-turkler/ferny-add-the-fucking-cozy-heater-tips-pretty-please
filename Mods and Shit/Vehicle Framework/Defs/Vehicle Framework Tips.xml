@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VehiclesTips</defName>
+    <tips>
+      <li TKey="FernyVehicles1">Engines and fuel tanks of vehicles, when damaged, may leak fuel or explode.</li>
+      <li TKey="FernyVehicles2">Vehicles can attempt to run raiders - or colonists - over. This will clear the vehicle's path as they run in terror.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

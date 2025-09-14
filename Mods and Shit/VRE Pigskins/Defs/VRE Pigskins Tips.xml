@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VREPigskinsTips</defName>
+    <tips>
+      <li TKey="FernyVREPigskins1">Pigskins can regrow their organs, which often sell for a nice profit.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_RunAndHideTips</defName>
+    <tips>
+      <li TKey="FernyRunAndHide1">Place a bunker spot to control where colonists will flee to when in danger.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

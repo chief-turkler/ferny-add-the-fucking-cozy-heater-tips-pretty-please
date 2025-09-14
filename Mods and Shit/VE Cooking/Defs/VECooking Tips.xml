@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VECookingTips</defName>
+    <tips>
+      <li TKey="FernyVECooking1">Canning food is a great way of preserving its shelf life.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

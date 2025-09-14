@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_HospitalityTips</defName>
+    <tips>
+      <li TKey="FernyHospitality1">If you have spare beds, consider charging silver to allow visitors to stay.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

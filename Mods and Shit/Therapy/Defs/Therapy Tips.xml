@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_TherapyTips</defName>
+    <tips>
+      <li TKey="FernyTherapy1">Colonists with bad memories can go to therapy to lessen their longevity.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_IdeologyTips</defName>
+    <tips>
+      <li TKey="FernyIdeology1">Masochists enjoy wearing slave apparel.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

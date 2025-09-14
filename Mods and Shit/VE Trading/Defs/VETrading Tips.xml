@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VETradingTips</defName>
+    <tips>
+      <li TKey="FernyVETrading1">Beware of supply and demand. Flooding the market with a resource will decrease its value, and buying up the planet's stock of a resource will hike its price.</li>
+      <li TKey="FernyVETrading2">The global markets will stabilize given several years, but prices may drift drastically.</li>
+      <li TKey="FernyVETrading3">Keep an eye on the news. Global events might effect the markets drastically and complicate your investments.</li>
+      <li TKey="FernyVETrading4">Low on silver? Take out a loan from a bank of your choosing at a trading terminal.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

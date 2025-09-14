@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VWELaserTips</defName>
+    <tips>
+      <li TKey="FernyVWELaser1">Laser weapons fire faster the longer the wielder stands still. Just don't let the weapon overheat.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

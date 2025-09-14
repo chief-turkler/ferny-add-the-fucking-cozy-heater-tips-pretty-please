@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VTEVariationsTips</defName>
+    <tips>
+      <li TKey="FernyVTEVariations1">Many buildings have simple visual variations that can be selected via the "Choose visual" gizmo.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

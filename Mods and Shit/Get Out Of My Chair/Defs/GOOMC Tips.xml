@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_GetOutOfMyChairTips</defName>
+    <tips>
+      <li TKey="FernyGOOMChair1">Don't want certain people eating at certain placs? Pick a chair to make public, for slaves, or even specific to a single person.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VREHighmateTips</defName>
+    <tips>
+      <li TKey="FernyVREHighmate1">Highmates appear very rarely, often only gifted to high-ranking officials.</li>
+      <li TKey="FernyVREHighmate2">Lowmates bring rowdy lovin’ energy, but prepare for relationship breakups.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_CoreTips</defName>
+    <tips>
+      <li TKey="FernyCore1">Mechs can adapt to EMP damage. Don't use it too much!</li>
+      <li TKey="FernyCore2">Traders usually keep their stash on their pack animals.</li>
+      <li TKey="FernyCore3">Generators produce a lot of heat--sometimes enough to give a colonist heatstroke.</li>
+      <li TKey="FernyCore4">Not all colonists need limbs. If needed, remove them.</li>
+      <li TKey="FernyCore5">Colonists can carry some medicine on them. This can be a lifesaver in tough moments.</li>
+      <li TKey="FernyCore6">Mountains can provide a shelter against heat and heatwaves.</li>
+      <li TKey="FernyCore7">Predators will not hunt a colonist that goes indoors.</li>
+      <li TKey="FernyCore8">The higher the quality of the bed, the faster people using it sleep.</li>
+      <li TKey="FernyCore9">People don't use all their organs. Removing unneccessary ones could turn a profit.</li>
+      <li TKey="FernyCore10">Many colonists can be researching at once, as long as each has a place to do so.</li>
+      <li TKey="FernyCore11">Human skin is a plentiful textile that can be used for many things, from couches to hats.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

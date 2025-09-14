@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_AchtungTips</defName>
+    <tips>
+      <li TKey="FernyAchtung1">The little lightning bolt on a right-click action lets you bulk-queue the work of a surrounding area.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

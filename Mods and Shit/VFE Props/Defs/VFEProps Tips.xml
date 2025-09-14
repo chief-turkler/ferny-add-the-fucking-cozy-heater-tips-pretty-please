@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VFEPropsTips</defName>
+    <tips>
+      <li TKey="FernyVFEProps1">Access and build decorative props in the "build props" menu found in the Furniture category.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

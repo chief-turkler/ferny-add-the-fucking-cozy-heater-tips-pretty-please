@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VWECoilgunsTips</defName>
+    <tips>
+      <li TKey="FernyVWECoilguns1">Spacer-tech gauss rifles can shoot through walls.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

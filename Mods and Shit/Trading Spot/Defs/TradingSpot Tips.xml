@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_TradingSpotTips</defName>
+    <tips>
+      <li TKey="FernyTradingSpot1">Place a trading spot to control where trading caravans will stop when visiting your colony.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

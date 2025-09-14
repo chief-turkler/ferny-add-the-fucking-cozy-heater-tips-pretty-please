@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_ExplosiveRadiusTips</defName>
+    <tips>
+      <li TKey="FernyExplosiveRadius1">The yellow raidus around a selected thing depicts the radius of its potential explosion.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

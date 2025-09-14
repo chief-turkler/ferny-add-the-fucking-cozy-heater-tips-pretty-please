@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_AlteredCarbonTips</defName>
+    <tips>
+      <li TKey="FernyAlteredCarbon1">A colonist mounted with a neural stack should avoid all heavy head-and-neck trauma.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

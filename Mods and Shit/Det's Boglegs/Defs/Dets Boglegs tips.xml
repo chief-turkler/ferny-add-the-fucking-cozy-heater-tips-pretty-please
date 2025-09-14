@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_BoglegsTips</defName>
+    <tips>
+      <li TKey="FernyBoglegs1">Boglegs store nutrition in their blubber sacks, so they’ll survive longer during famine.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

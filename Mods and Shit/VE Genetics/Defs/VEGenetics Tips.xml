@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VEGeneticsTips</defName>
+    <tips>
+      <li TKey="FernyVEGenetics1">Genetically-spliced animals with the 'colossal' genome consume far more food.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

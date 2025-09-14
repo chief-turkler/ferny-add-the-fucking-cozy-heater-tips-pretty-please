@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_WololooTips</defName>
+    <tips>
+      <li TKey="FernyWololoo1">Converting a prisoner's ideology will dramatically reduce their resistance and somewhat reduce their will.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

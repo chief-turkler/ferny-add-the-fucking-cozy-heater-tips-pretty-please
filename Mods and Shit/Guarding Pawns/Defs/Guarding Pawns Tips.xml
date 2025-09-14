@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_GuardingPawnsTips</defName>
+    <tips>
+      <li TKey="FernyGuardingPawns1">You can set colonists to guard and patrol certain areas of your colony.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

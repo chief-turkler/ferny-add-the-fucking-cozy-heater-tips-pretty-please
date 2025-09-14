@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VAEEndangeredTips</defName>
+    <tips>
+      <li TKey="FernyVAEEndangered1">Releasing endangered species into the wild for repopulation might gain your colony positive relations with other factions.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

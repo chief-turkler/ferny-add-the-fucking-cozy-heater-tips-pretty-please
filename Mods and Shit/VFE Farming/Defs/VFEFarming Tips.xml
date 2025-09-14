@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VFEFarmingTips</defName>
+    <tips>
+      <li TKey="FernyVFEFarming1">Placing a scarecrow will deter smaller animals from eating your crops.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

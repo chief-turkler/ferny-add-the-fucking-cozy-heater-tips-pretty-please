@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_DetsAvaloiTips</defName>
+    <tips>
+      <li TKey="FernyDetsAvaloi1">The fish-like Avaloi are genetically booze‑dependent and gain psychic sensitivity from alcohol.</li>
+      <li TKey="FernyDetsAvaloi2">Some genetic engineers aesthetically alter their subjects for purely visual purposes.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_VRESauridsTips</defName>
+    <tips>
+      <li TKey="FernyVRESaurids1">Some xenohumans produce their offspring by laying eggs. Make sure to keep those eggs at safe temperature.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_ShooTips</defName>
+    <tips>
+      <li TKey="FernyShoo1">Animal disrupting your colony? Politely shoo them away, but be wary of potential retaliation.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

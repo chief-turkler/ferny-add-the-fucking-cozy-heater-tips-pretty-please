@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_BlueprintsTips</defName>
+    <tips>
+      <li TKey="FernyBlueprints1">If you get tired of building the same thing over and over, consider creating a blueprint for it.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>
